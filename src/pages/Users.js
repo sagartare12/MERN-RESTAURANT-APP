@@ -25,7 +25,7 @@ const Users = () => {
         //         })
 
         //         const res= await fetchData.json();
-        //         console.log(res);
+        //         
                
         
         //         // Access cookies from the response headers
